@@ -32,7 +32,7 @@ const Main = () => {
                     </h2>
                     <div className='flex justify-between pt-6 max-w-[200px] w-full text-gray-400'>
                         <a
-                            href='https://github.com/criscarlod'
+                            href='https://github.com/rod-bryan'
                             target='_blank'
                             rel='noopener noreferrer'
                             className='cursor-pointer'
@@ -40,7 +40,7 @@ const Main = () => {
                             <FaGithub size={20} />
                         </a>
                         <a
-                            href='https://linkedin.com/in/cris-carlo-dapitanon-9b7071190'
+                            href='https://linkedin.com/in/rod-bryan-pagsanjan-5a6620120'
                             target='_blank'
                             rel='noopener noreferrer'
                             className='cursor-pointer'
@@ -48,7 +48,7 @@ const Main = () => {
                             <FaLinkedinIn size={20} />
                         </a>
                         <a
-                            href='https://www.facebook.com/criscarlo03'
+                            href='https://www.facebook.com/rodpagsanjan'
                             target='_blank'
                             rel='noopener noreferrer'
                             className='cursor-pointer'
